@@ -2,7 +2,7 @@
 	"name": "Quiet NTP",
 	"short_name": "Quiet NTP",
 	"author": "El-Brawndo",
-	"version": "1.1",
+	"version": "1.2",
 	"manifest_version": 2,
 	"default_locale": "en",
 	"description": "Tell your New Tab page to be quiet.",
